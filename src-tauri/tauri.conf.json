@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Altan OS",
+  "version": "0.1.0",
+  "identifier": "com.altanos.desktop",
+  "build": {
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:5173"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Altan OS",
+        "width": 1280,
+        "height": 820
+      }
+    ]
+  }
+}
