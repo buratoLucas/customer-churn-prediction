@@ -1,0 +1,2 @@
+-- Initial Altan OS schema migration
+-- Generated manually for scaffold bootstrap.
